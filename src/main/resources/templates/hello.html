@@ -1,0 +1,9 @@
+<body>
+<h1 th:text="'Welcome, ' + ${email} + '!'"></h1>
+<ul>
+    <li th:if="${name}" th:text="'Name: ' + ${name}"></li>
+    <li th:if="${lastAccess}" th:text="'Last access: ' + ${lastAccess}"></li>
+    <li th:if="${firstName}" th:text="'First name: ' + ${firstName}"></li>
+    <li th:if="${lastName}" th:text="'Last name: ' + ${lastName}"></li>
+</ul>
+</body>
