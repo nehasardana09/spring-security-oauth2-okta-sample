@@ -12,7 +12,7 @@
     <artifactId>spring-security-oauth2-sample</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-security-oauth2-sample</name>
-    <description>Demo project for Spring Boot</description>
+    <description>Demo project for SpringOne</description>
     <properties>
         <java.version>16</java.version>
     </properties>
